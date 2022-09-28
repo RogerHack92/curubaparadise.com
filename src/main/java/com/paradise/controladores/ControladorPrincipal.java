@@ -9,5 +9,5 @@ public class ControladorPrincipal {
     
         public String cargarIndex(){
             return "index";
-            }
+            }     
 }
